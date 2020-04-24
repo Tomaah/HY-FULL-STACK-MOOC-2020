@@ -1,0 +1,10 @@
+title tehtävä 0.5
+
+
+selain->palvelin: HTTP POST https://fullstack-exampleapp.herokuapp.com/new_note_spa
+palvelin-->selain: 201 created
+
+note over selain:
+Pyyntö sisältää muistiinpanon aikaleimalla ja sisällöllä
+Palvelin vastaa luomalla muistiinpanon ilman uudelleenlatauksia
+end note
